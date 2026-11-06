@@ -1,5 +1,4 @@
 # laughing-doodle
-Inspired by IBM Course on Developing ios Apps with SwiftCode 
 # Weather Dashboard
 
 A clean, modern iOS weather app built with **SwiftUI**. Search any city to see current conditions and a 5-day forecast, view weather on an interactive map, and save favourite cities.
@@ -43,15 +42,15 @@ Inspired by the IBM course *Developing iOS Apps with Swift*.
 
 ## Requirements
 
-- Xcode 15 or later
-- iOS 17 or later
+- Xcode 26 or later
+- iOS 26.5 or later
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CaptTauhid5832/WeatherDashboard_ios_swift.git
-   cd WeatherDashboard_ios_swift
+   git clone https://github.com/CaptTauhid5832/laughing-doodle.git
+   cd laughing-doodle
    ```
 2. Open the project in Xcode (double-click the `.xcodeproj` file).
 3. Choose an iPhone simulator and press **Run** (`⌘R`).
@@ -61,6 +60,10 @@ Inspired by the IBM course *Developing iOS Apps with Swift*.
 - Hourly forecast for searched cities
 - °C / °F switching
 - Home Screen widget
+
+## License
+
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
